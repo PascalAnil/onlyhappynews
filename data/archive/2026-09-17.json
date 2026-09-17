@@ -1,0 +1,71 @@
+{
+  "datum": "2026-09-17",
+  "ausgabe": 1,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Umwelt",
+      "titel": "Nach 200 Jahren: Bisons kehren in Mexikos Wüste zurück",
+      "zusammenfassung": "Im Biosphärenreservat Cuatrociénegas im Bundesstaat Coahuila wurden 48 Bisons ausgewildert – nach rund zwei Jahrhunderten Abwesenheit. Die Tiere gelten als natürliche Landschaftspfleger: Ihre Hufe lockern den Boden, ihr Fell verbreitet Samen und ihr Dung düngt das Grasland. Die Stiftung Pro Cuatrociénegas spricht von einem Schritt zurück zu Gleichgewicht und Hoffnung.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/mexico-reintroduced-bison-into-precious-desert-ecosystem-after-century-long-absence/",
+      "lesezeit": 3
+    },
+    {
+      "kategorie": "Wissenschaft",
+      "titel": "Trinkwasser aus Meerwasser – ohne schädliche Salzlake",
+      "zusammenfassung": "Forschende der University of Rochester haben eine solarbetriebene Entsalzungsanlage mit laserbehandelten Metallplatten entwickelt. Das Salz fällt dabei als Feststoff an statt als umweltschädliche Lake, und die Oberfläche reinigt sich selbst. Aus den Rückständen liesse sich künftig sogar Lithium für Batterien gewinnen.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915100137.htm",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Gesundheit",
+      "titel": "Bhutan hat die Tollwut durch Hunde besiegt",
+      "zusammenfassung": "Die Weltgesundheitsorganisation bestätigt: Bhutan hat die von Hunden übertragene Tollwut als Gesundheitsgefahr eliminiert – als erstes Land Südostasiens. Möglich machten das über zehn Jahre Impfkampagnen, gezieltes Populationsmanagement und Aufklärung in den Gemeinden.",
+      "quelle": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
+      "lesezeit": 5
+    },
+    {
+      "kategorie": "Tiere",
+      "titel": "78-jähriger Songwriter rettet Füchse vor der Räude",
+      "zusammenfassung": "Jerry Vandiver aus Nashville fängt seit sieben Jahren an Räude erkrankte Rotfüchse ein und bringt sie zu einer Auffangstation. Allein dieses Jahr wurden dort über 60 Füchse gesund gepflegt – mehr als im ganzen Vorjahr. Er selbst sieht sich bescheiden als «Ambulanzfahrer»: Räude sei behandelbar.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/nashville-singer-songwriter-becomes-local-celebrity-rescuing-foxes-and-saving-them-from-mange/",
+      "lesezeit": 3
+    },
+    {
+      "kategorie": "Geschichte",
+      "titel": "Grösster Wikinger-Silberschatz Finnlands entdeckt",
+      "zusammenfassung": "Ein Hobby-Sondengänger hat in Sysmä in Südfinnland zwei Silberhorte mit zusammen rund 4,5 Kilogramm gefunden – tausende Münzen, Schmuck und Hacksilber aus dem 11. Jahrhundert. Es ist der grösste Fund dieser Art in der Geschichte des Landes.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/10-pounds-of-viking-silver-found-in-finland-extend-incredible-year-for-scandinavian-treasure-hunts/",
+      "lesezeit": 3
+    },
+    {
+      "kategorie": "Gesellschaft",
+      "titel": "Ein Dorf, damit Pflegegeschwister zusammenbleiben",
+      "zusammenfassung": "Schauspieler Christian Bale hat im kalifornischen Palmdale «Together California» eröffnet: ein Pflegedorf mit zwölf Wohneinheiten, in dem Geschwister gemeinsam aufwachsen können, statt getrennt zu werden. Das Projekt wurde über Jahre mit Spenden in Millionenhöhe aufgebaut.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/christian-bale-opens-long-dreamed-of-foster-care-village-aimed-at-keeping-siblings-together/",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Gesundheit",
+      "titel": "Vollkorn: Die ideale Menge fürs Herz",
+      "zusammenfassung": "Eine Auswertung von 87 Studien mit über 6500 Teilnehmenden zeigt: 60 bis 100 Gramm Vollkorn pro Tag verbessern Gewicht, Blutdruck, Cholesterin, Blutzucker und Entzündungswerte. Positive Effekte zeigen sich bereits ab 30 bis 40 Gramm täglich.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232126.htm",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Kurioses",
+      "titel": "Schokoladenduft macht stärker im Training",
+      "zusammenfassung": "In einer Studie der Universität Malaya schafften junge Männer beim Beinstrecken rund 18 Wiederholungen mehr, wenn sie dabei dunkle Schokolade rochen – ohne sich stärker angestrengt zu fühlen. Die Forschenden vermuten, dass der Duft das Hungergefühl dämpft.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm",
+      "lesezeit": 3
+    }
+  ]
+}

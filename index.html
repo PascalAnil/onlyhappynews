@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="de-CH">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Only Happy News – Jeden Morgen 8 gute Nachrichten</title>
+<meta name="description" content="Jeden Morgen um 8 Uhr: acht gute, positive Nachrichten aus Wissenschaft, Umwelt, Gesundheit, Gesellschaft und Kultur – kurz zusammengefasst mit Link zur Quelle.">
+<meta property="og:title" content="Only Happy News">
+<meta property="og:description" content="Jeden Morgen 8 gute Nachrichten – kurz zusammengefasst.">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <a class="logo" href="./" aria-label="Only Happy News – Startseite">
+    <img src="assets/logo.svg" alt="" width="52" height="52">
+    <span class="wordmark">Only <em>Happy</em> News</span>
+  </a>
+  <div class="headmeta"><strong id="datum">&nbsp;</strong><span id="ausgabe">&nbsp;</span></div>
+</header>
+
+<nav class="cats" id="cats" aria-label="Kategorien"></nav>
+
+<main>
+  <div id="notice" class="notice hidden"></div>
+  <article class="lead hidden" id="lead"></article>
+  <section class="grid" id="grid"></section>
+
+  <h3 class="section">Frühere Ausgaben</h3>
+  <ul class="archive" id="archive"></ul>
+
+  <section class="newsletter" id="newsletter">
+    <div>
+      <div class="kicker">Newsletter</div>
+      <h3>Die guten Nachrichten jeden Morgen um 8 Uhr im Postfach.</h3>
+      <p>Kostenlos und jederzeit abbestellbar.</p>
+    </div>
+    <!-- Anmeldungen werden über FormSubmit als E-Mail an das Projektpostfach gesendet (siehe README) -->
+    <form action="https://formsubmit.co/pawaldburger@gmail.com" method="POST">
+      <input type="hidden" name="_subject" value="OHN Newsletter Anmeldung">
+      <input type="hidden" name="_template" value="table">
+      <input type="hidden" name="_next" value="https://pascalanil.github.io/onlyhappynews/danke.html">
+      <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
+      <input type="hidden" name="aktion" value="anmelden">
+      <div class="field"><input type="email" name="email" required placeholder="name@beispiel.ch" aria-label="E-Mail-Adresse"><button type="submit">Anmelden</button></div>
+      <label><input type="checkbox" name="datenschutz" value="akzeptiert" required> Ich habe die <a href="datenschutz.html">Datenschutzerklärung</a> gelesen und bin einverstanden.</label>
+    </form>
+  </section>
+</main>
+
+<footer>
+  <span>© <span id="jahr">2026</span> Only Happy News · Zusammenfassungen in eigenen Worten; alle Rechte an den Originalartikeln liegen bei den Quellen.</span>
+  <span><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a> · <a href="abmelden.html">Newsletter abmelden</a></span>
+</footer>
+</div>
+<script src="assets/app.js"></script>
+</body>
+</html>
