@@ -1,0 +1,78 @@
+{
+  "datum": "2026-09-19",
+  "ausgabe": 3,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Tiere",
+      "titel": "Erste neue Katzenart seit über 100 Jahren entdeckt",
+      "zusammenfassung": "In den Yungas-Bergwäldern Boliviens haben die Biologin Paola Nogales-Ascarrunz und der Genetiker Eduardo Eizirik eine bisher unbekannte Wildkatze beschrieben: Leopardus tilcayo. Ausgangspunkt war 2016 ein ungewöhnliches Kätzchen in einem Tierheim, danach folgten rund sechs Jahre Erbgutanalysen, publiziert im Fachjournal «Cell». Die kleine gefleckte Katze ist kleiner als eine Hauskatze – zuletzt war 1923 eine neue Katzenart benannt worden.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/new-cat-species-identified-for-the-first-time-in-over-100-years-meet-the-tilcayo/",
+      "lesezeit": 5
+    },
+    {
+      "top": false,
+      "kategorie": "Umwelt",
+      "titel": "20'000 Lachse zurück im Klamath River",
+      "zusammenfassung": "Nach dem Abriss von vier Staudämmen am Klamath River in Oregon und Kalifornien sind innerhalb von zwei Jahren rund 20'000 Königslachse flussaufwärts in ihre früheren Laichgebiete gewandert. Laut der in «Nature» veröffentlichten Studie erholen sich die Fische viel schneller, als die Forschenden erwartet hatten.",
+      "quelle": "Reasons to be Cheerful",
+      "url": "https://reasonstobecheerful.world/what-were-reading-klamath-river-salmon-return/",
+      "lesezeit": 2
+    },
+    {
+      "top": false,
+      "kategorie": "Gesellschaft",
+      "titel": "86-Jährige öffnet die Dorfbeiz in Wisen SO wieder",
+      "zusammenfassung": "Im Solothurner Dorf Wisen am Hauenstein hat Cecile Bitterlin mit 86 Jahren das Restaurant «Sonne» wieder eröffnet, nachdem es im Sommer schliessen musste. Seit Anfang August führt sie die Beiz selbst, weil sie unter Menschen sein möchte. Die Gäste schätzen den seltenen Treffpunkt im Dorf sehr.",
+      "quelle": "SRF News",
+      "url": "https://www.srf.ch/news/schweiz/nach-schicksalsschlag-86-jaehrige-rettet-dorfbeiz-in-wisen-so",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Gesundheit",
+      "titel": "Lesen hält Kopf und Seele gesund",
+      "zusammenfassung": "Eine Übersichtsarbeit der Universität Cambridge um Prof. Barbara Sahakian verbindet regelmässiges Lesen mit besserer psychischer Gesundheit, mehr Empathie und langsamerem geistigem Abbau im Alter. Das Alzheimer-Risiko war bei Lesenden um rund einen Drittel tiefer. Der Wochenrückblick von Positive News fasst die Studie zusammen, neben weiteren guten Nachrichten der Woche.",
+      "quelle": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/",
+      "lesezeit": 6
+    },
+    {
+      "top": false,
+      "kategorie": "Wissenschaft",
+      "titel": "T. rex war warmblütig – etwa so warm wie wir",
+      "zusammenfassung": "Forschende der UCLA, des University College London und der Johns Hopkins University haben die chemischen Bindungen im Zahnschmelz fossiler T.-rex-Zähne untersucht. Das Ergebnis: Der Dinosaurier hatte eine Körpertemperatur von rund 36 Grad Celsius und war damit warmblütig. Die Studie erschien in «Science Advances».",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/tyrannosaurus-rex-was-a-warm-blooded-dinosaur-with-a-body-temperature-similar-to-that-of-humans-study-suggests-180989519/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Technik",
+      "titel": "Präziser Start: NASA-Teleskop Roman könnte 22 Jahre forschen",
+      "zusammenfassung": "Das am 30. August gestartete Nancy Grace Roman Space Telescope der NASA braucht deutlich weniger Treibstoff als geplant: Die erste Kurskorrektur verbrauchte nur 18 statt der vorgesehenen 200 Kilogramm. Zusammen mit vollen Tanks dank geringerem Startgewicht könnte das Teleskop mindestens 22 statt 10 Jahre arbeiten. Sein Zielorbit wird etwa Anfang Dezember erreicht.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
+      "lesezeit": 2
+    },
+    {
+      "top": false,
+      "kategorie": "Geschichte",
+      "titel": "Die Kurven des Parthenon: doch keine optische Täuschung?",
+      "zusammenfassung": "Seit dem römischen Architekten Vitruv gilt, dass die leichten Krümmungen des Parthenon in Athen optische Täuschungen ausgleichen sollen. Der Oxford-Mathematiker Alain Goriely findet dafür in einer Studie in «Royal Society Open Science» keine Belege. Er vermutet praktische und ästhetische Gründe, etwa die Entwässerung der leicht gewölbten Bodenplatte.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/centuries-ago-an-architect-characterized-the-parthenons-curves-as-a-clever-optical-illusion-now-a-mathematician-begs-to-differ-180989520/",
+      "lesezeit": 5
+    },
+    {
+      "top": false,
+      "kategorie": "Kultur",
+      "titel": "Für 30 Dollar gekauft, bis zu 250'000 Dollar wert",
+      "zusammenfassung": "Ein Kunstsammler entdeckte im Juli an einem Nachlassverkauf in Michigan ein verschollenes Gemälde der Künstlerin Gertrude Abercrombie und bezahlte dafür 30 Dollar. Das Bild «Alderman Merriam's Shells» von 1951 war 75 Jahre im Besitz einer Arztfamilie. Am 1. Oktober wird es beim Auktionshaus Freeman's versteigert, geschätzt auf bis zu 250'000 Dollar.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/bought-for-30-at-an-estate-sale-this-long-lost-gertrude-abercrombie-painting-could-now-fetch-250000-180989513/",
+      "lesezeit": 2
+    }
+  ]
+}
