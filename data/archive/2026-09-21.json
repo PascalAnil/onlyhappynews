@@ -1,0 +1,78 @@
+{
+  "datum": "2026-09-21",
+  "ausgabe": 4,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Wissenschaft",
+      "titel": "Quantenverschränkung besteht Extremtest am CERN",
+      "zusammenfassung": "Am Large Hadron Collider bei Genf hat ein internationales Team unter Beteiligung der University of Oxford mit dem ATLAS-Detektor starke Hinweise auf Quantenverschränkung zwischen Z-Bosonen gefunden. Die Teilchen entstehen beim Zerfall von Higgs-Bosonen in Protonenkollisionen bei 13 Billionen Elektronenvolt; rekonstruiert wurden ihre Spins über die Zerfallswinkel von Elektronen und Myonen. Einsteins «spukhafte Fernwirkung» zeigt sich damit erstmals auch bei schweren, extrem kurzlebigen Teilchen (publiziert in «Physical Review Letters»).",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Umwelt",
+      "titel": "Blaukrabben in der Chesapeake Bay erholen sich deutlich",
+      "zusammenfassung": "Die jährliche Winterzählung von Maryland Department of Natural Resources und Virginia Institute of Marine Sciences ergab rund 349 Millionen Blaukrabben in der Chesapeake Bay – 46 Prozent mehr als im Vorjahr und der höchste Wert seit 2019. Besonders stark fiel der Nachwuchs mit 228 Millionen Jungkrabben aus. Fachleute führen die Erholung vor allem auf die Fangbegrenzungen beider Gliedstaaten zurück.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/chesapeake-bay-blue-crab-numbers-see-encouraging-bounceback-in-new-survey/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Gesellschaft",
+      "titel": "New York holt den Park zurück an die Park Avenue",
+      "zusammenfassung": "Die Stadt New York gestaltet elf Baublocks der Park Avenue zwischen 46. und 57. Strasse in Manhattan neu. Geplant sind breitere begrünte Mittelstreifen mit Sitzplätzen und Kunst, mehr Platz für Fussgänger sowie geschützte Velospuren in beide Richtungen; dafür fällt je eine Fahrspur weg. Die Arbeiten nutzen die laufende Sanierung des Grand Central Terminal – bis in die 1920er-Jahre lag in der Mitte der Avenue tatsächlich ein Park.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/new-york-city-is-putting-the-park-back-in-park-avenue/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Geschichte",
+      "titel": "Kalenderrätsel der Qumran-Rollen nach Jahrzehnten gelöst",
+      "zusammenfassung": "Ob die Gemeinschaft von Qumran ihren ungewöhnlichen 364-Tage-Kalender wirklich benutzte oder ihn nur als theoretisches Ideal beschrieb, war jahrzehntelang umstritten. Professorin Eshbal Ratzon von der Universität Tel Aviv kommt nach Analyse der Schriftrollen und des Jubiläenbuchs zum Schluss, dass die Gruppe den Kalender im 2. Jahrhundert v. Chr. tatsächlich anwandte. Weil er langsam aus dem Rhythmus der Jahreszeiten fiel, wurde er später aufgegeben (publiziert in «Tarbiz»).",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260919031035.htm",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Kultur",
+      "titel": "40 lebensgrosse Bison-Puppen ziehen durch New York",
+      "zusammenfassung": "Unter dem Titel «Return of the Buffalo» wanderte am Wochenende eine Herde aus 40 lebensgrossen Bison-Puppen durch Lower Manhattan und Brooklyn, mit Auftakt am National Museum of the American Indian. Die Figuren aus Stahl, Sperrholz, Jute und Papier wiegen je rund 36 Kilogramm und werden von drei Puppenspielenden bewegt – insgesamt waren 150 Mitwirkende im Einsatz. Konzipiert hat das Projekt Amir Nizar Zuabi; es erinnert an die Rückkehr der Bisons und an die Geschichte der indigenen Gemeinschaften.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/a-herd-of-40-life-size-bison-puppets-will-stampede-through-new-york-this-weekend-to-honor-indigenous-history-and-resilience-180989525/",
+      "lesezeit": 5
+    },
+    {
+      "top": false,
+      "kategorie": "Technik",
+      "titel": "Färben ohne Hitze spart Wasser in der Textilindustrie",
+      "zusammenfassung": "Das französische Start-up EverDye färbt Textilien mit elektrostatisch haftenden Pigmenten auf bio- und mineralischer Basis, ohne Hitze und ohne chemische Fixiermittel. Nach Angaben des Unternehmens sinkt der Wasserverbrauch dadurch um rund 40 Prozent, giftige Zusätze entfallen. Bestehende Färbereien brauchen kaum neue Anlagen; 2025 sammelte die Firma 17,5 Millionen Dollar Wachstumskapital ein.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/companys-textile-dyes-work-through-magnetism-cutting-fashions-water-use-energy-and-pollution/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Sport",
+      "titel": "265 Kilometer Radweg nach 30 Jahren Bauzeit fertig",
+      "zusammenfassung": "Der Mesabi Trail in Minnesota ist nach mehr als 30 Jahren Planung, Bau und Mittelbeschaffung offiziell vollendet. Auf 265 Kilometern verbindet er 28 Gemeinden zwischen Grand Rapids und Ely und gehört damit zu den längsten asphaltierten Radwegen der USA. Zehntausende Menschen nutzen ihn jedes Jahr; die Eröffnungsfeier fand vergangene Woche statt.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/165mi-bike-trail-through-minnesota-finally-completed-after-30-yrs/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Kurioses",
+      "titel": "Zum Saisonende dürfen die Hunde in die Zürcher Badis",
+      "zusammenfassung": "In den Bädern Töss in Winterthur, Opfikon und Neftenbach durften am Wochenende Hunde ins Wasser, bevor die Becken geleert werden. Erlaubt war alles: mit oder ohne Schwimmweste, über die Rutschbahn oder vom Sprungbrett, das Chlor war da bereits raus. Die Betreiber rechneten mit bis zu 200 Hundehaltenden, der Eintritt kostete einen Franken pro Pfote und Fuss; in Neftenbach organisierte der Hundesportverein das Fest zum 75-Jahr-Jubiläum.",
+      "quelle": "swissinfo.ch",
+      "url": "https://www.swissinfo.ch/ger/z%C3%BCrcher-badis-lassen-zum-saisonende-die-vierbeiner-ins-wasser/92088910",
+      "lesezeit": 2
+    }
+  ]
+}
