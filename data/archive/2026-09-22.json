@@ -1,0 +1,78 @@
+{
+  "datum": "2026-09-22",
+  "ausgabe": 5,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Wissenschaft",
+      "titel": "Stammzellen reparieren Hirnschäden nach Schlaganfall",
+      "zusammenfassung": "Ein Team der Universität Zürich hat zusammen mit Forschenden der University of Southern California Mäusen eine Woche nach einem Schlaganfall menschliche neurale Stammzellen ins geschädigte Hirngewebe verpflanzt. Die Zellen überlebten, entwickelten sich zu Nervenzellen und verbanden sich mit dem bestehenden Gewebe; zusätzlich bildeten sich neue Blutgefässe. Über fünf Wochen hinweg erholte sich die Bewegungsfähigkeit der Tiere.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Gesundheit",
+      "titel": "KI erkennt Herzschwäche im gewöhnlichen EKG",
+      "zusammenfassung": "Ein am Imperial College London mit Mitteln der British Heart Foundation entwickeltes KI-Modell wurde an Millionen von Patientendaten trainiert. In der Auswertung von 67'000 EKG aus den USA erkannte es 81 Prozent der Fälle von Herzschwäche und 90 Prozent der Herzklappenerkrankungen. Weltweit werden jährlich rund eine Milliarde EKG geschrieben – das Modell könnte Risikopatienten schneller zur Ultraschalluntersuchung bringen.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/new-ai-model-can-detect-heart-disease-markers-in-simple-electrocardiogram-readings-a-breakthrough/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Gesellschaft",
+      "titel": "Bürgermeister retten die letzte Beiz im Dorf",
+      "zusammenfassung": "Im burgundischen Saint-Martin-sur-Ouanne hat die öffentliche Hand das seit acht Monaten geschlossene Café «Au Bon Accueil» übernommen und mit 25'000 Euro renoviert; geführt wird es nun von Nadia Letellier. In Frankreich gibt es heute noch rund 40'000 Bistros, vor 125 Jahren waren es etwa 500'000. Der zuständige Gemeindeverband besitzt inzwischen ein weiteres Bistro, ein Restaurant und drei Bäckereien.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/rural-french-mayors-rally-to-save-their-local-cafe-bistro-and-help-reverse-national-trend/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Technik",
+      "titel": "Aus Plastikabfall wird Benzin – bei unter 200 Grad",
+      "zusammenfassung": "Forschende des Oak Ridge National Laboratory haben ein Verfahren entwickelt, das Polyethylen mithilfe geschmolzener Aluminiumsalze in benzin- und dieselähnliche Treibstoffe umwandelt. Die Benzinausbeute liegt bei rund 60 Prozent, und das bei Temperaturen unter 200 Grad statt der sonst üblichen 450 bis 500 Grad. Weder Wasserstoff noch Edelmetall-Katalysatoren oder organische Lösungsmittel sind nötig.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222405.htm",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Geschichte",
+      "titel": "1700 Jahre altes Odyssee-Fragment in Utrecht entdeckt",
+      "zusammenfassung": "Der Gräzist Mark de Kreij von der Radboud-Universität stiess in der Universitätsbibliothek Utrecht auf ein nur wenige Zentimeter grosses Pergamentstück mit griechischen Versen aus dem zwölften Buch der Odyssee. Das Fragment stammt aus der Zeit um 300 n. Chr. und lag unter ägyptischen Handschriften, welche die Universität Mitte des 20. Jahrhunderts erworben hatte. Weltweit sind nur etwa 30 Odyssee-Fragmente aus dem 3. und 4. Jahrhundert bekannt.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/a-researcher-studying-in-a-dutch-library-was-amazed-to-discover-a-scrap-of-parchment-from-a-1700-year-old-copy-of-the-odyssey-180989524/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Umwelt",
+      "titel": "Sensen statt Rasenmäher für Englands Wildblumen",
+      "zusammenfassung": "Die Denkmalorganisation English Heritage lässt Wiesen an historischen Orten wieder von Hand mit der Sense mähen, zum Auftakt bei der Abtei Muchelney in Somerset. Das Projekt läuft über drei Jahre gemeinsam mit dem Bumblebee Conservation Trust, geschult werden die Freiwilligen von der Nationalparkbehörde Exmoor. Die langsame Handmahd schont bodennistende Hummeln, darunter eine seltene Art, die in Grossbritannien nur noch in fünf Gebieten vorkommt.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/a-cutting-edge-english-project-replaces-lawnmowers-with-scythes-to-protect-wildflowers-and-save-the-bees-180989537/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Tiere",
+      "titel": "250 Millionen Dollar für bezahlbare Tierarztbesuche",
+      "zusammenfassung": "Das US-Ehepaar Dave und Cheryl Duffield stellt über seine Stiftung 250 Millionen Dollar in fünf Jahren bereit, damit sich mehr Menschen den Tierarzt für ihr Haustier leisten können. In den USA sind schätzungsweise 50 Millionen Hunde und Katzen von Versorgungslücken betroffen. Den Anfang machen 250 Förderbeiträge von je 10'000 Dollar für gemeinnützige Praxen sowie ein Topf von 10 Millionen Dollar für den Ausbau bestehender Kliniken.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/historic-philanthropic-gift-will-expand-veterinary-care-access-to-millions-of-americans-and-their-pets/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Kultur",
+      "titel": "1400 neue Wörter im grössten US-Wörterbuch",
+      "zusammenfassung": "Merriam-Webster hat 1400 neue Einträge aufgenommen, viele davon aus der Online-Kultur: etwa «looksmaxxing» für extreme Bemühungen ums Aussehen, «Sunday scaries» für das mulmige Gefühl vor dem Wochenstart oder «cuffing season» für die Partnersuche über den Winter. Aufgenommen wird nur, was häufig, weit verbreitet und mit klarer Bedeutung gebraucht wird. Ebenfalls neu im Wörterbuch stehen «rickroll», «parasocial» und «chili crisp».",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/from-sunday-scaries-and-whack-a-mole-to-looksmaxxing-and-cuffing-season-these-are-the-newest-words-in-the-dictionary-180989529/",
+      "lesezeit": 3
+    }
+  ]
+}
