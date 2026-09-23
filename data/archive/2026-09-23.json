@@ -1,0 +1,78 @@
+{
+  "datum": "2026-09-23",
+  "ausgabe": 6,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Technik",
+      "titel": "Drohnen-Training: keine Toten bei Rekordhochwasser in Mosambik",
+      "zusammenfassung": "Ein Programm der Afrikanischen Entwicklungsbank und eines südkoreanischen Treuhandfonds bildete ab April 2025 dreissig mosambikanische Fachleute zu Drohnenpiloten aus. Beim schweren Hochwasser im Januar 2026 im Distrikt Marracuene orteten sie mit LiDAR-Drohnen eingeschlossene Familien, kartierten weggerissene Strassen und lotsten Rettungsfahrzeuge durch die Fluten. Weder Betroffene noch Rettungskräfte kamen dabei ums Leben.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/korean-drone-rescue-program-helps-mozambique-achieve-zero-fatalities-during-worst-flood-in-decades/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Wissenschaft",
+      "titel": "Hobby-Astronom entdeckt 25-Kilometer-Krater auf Satellitenbild",
+      "zusammenfassung": "Der Amateurastronom Joël Lapointe stiess 2024 bei der Planung eines Campingausflugs auf ein auffallend rundes Gebilde in einer Online-Satellitenkarte in der Region Côte-Nord in Quebec. Eine Expedition unter Leitung des Planetengeologen Gordon Osinski von der Western University bestätigte im Oktober 2025 anhand von Strahlenkegeln einen Einschlagkrater von rund 25 Kilometern Durchmesser und etwa 390 Millionen Jahren Alter. Es ist der grösste seit dem Fund des Hiawatha-Kraters im Jahr 2018.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Gesundheit",
+      "titel": "Sanfter Eingriff am Knie erspart vielen die Prothese",
+      "zusammenfassung": "Bei der genikulären Arterienembolisation werden jene feinen Blutgefässe verschlossen, die eine entzündete Kniearthrose mit Nachschub versorgen. Laut einem Team um Leigh Casadaban von der University of Colorado Anschutz verspüren rund 70 Prozent der Behandelten danach deutlich weniger Schmerzen, bei Ansprechenden hält die Wirkung zwei bis vier Jahre an. Der Eingriff dauert ein bis zwei Stunden und erfolgt ambulant.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260922052030.htm",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Umwelt",
+      "titel": "Korallenriffe aus alten Austernschalen im 3D-Drucker",
+      "zusammenfassung": "Studierende der National Taiwan Normal University haben zusammen mit der National Taiwan Ocean University Riffmodule entwickelt, die aus gemahlenen Austernschalen und Korallenschutt im 3D-Drucker entstehen. Die geriffelte Oberfläche ahmt Hirnkorallen nach, die Bausteine lassen sich ohne Schrauben stapeln. In Freiwassertests überlebten alle 28 aufgesetzten Korallenfragmente, zudem siedelten sich Fische, Einsiedlerkrebse und Kraken an.",
+      "quelle": "The Optimist Daily",
+      "url": "https://www.optimistdaily.com/2026/09/how-reefvive-is-rebuilding-coral-reefs-from-discarded-oyster-shells/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Technik",
+      "titel": "MIT-Flugroboter fliegt dank KI 450 Prozent schneller",
+      "zusammenfassung": "Ein Miniaturflugroboter des MIT, etwa so gross wie eine Mikrokassette und leichter als eine Büroklammer, fliegt neu 450 Prozent schneller und beschleunigt 255 Prozent stärker. Möglich macht das eine zweiteilige Steuerung: Ein planender Regler gibt komplexe Manöver vor, eine daraus trainierte KI setzt sie in Echtzeit um. Der Roboter schaffte zehn Überschläge in elf Sekunden und blieb dabei auf vier bis fünf Zentimeter genau auf Kurs.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Tiere",
+      "titel": "Gefangene ziehen in Wisconsin 100 Monarchfalter gross",
+      "zusammenfassung": "In der Strafanstalt Redgranite in Wisconsin betreuen rund zwanzig Insassen von Juni bis September Monarchraupen, die sie von der Zuchtstation Monarch Watch erhalten. Sie wechseln Blätter, erfassen Daten zu den Eiern und markieren die fertigen Falter vor dem Flug nach Mexiko. 2026 zogen sie hundert Raupen gross, nach sechzig im Vorjahr; auf dem Areal entstanden zusätzlich Blumenbeete für Bestäuber.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/prisoners-prove-unlikely-heroes-to-monarch-butterflies-thanks-to-wisconsin-correctional-program/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Geschichte",
+      "titel": "Eiszeit-Figuren folgen dem Muster des Mammutzahns",
+      "zusammenfassung": "Ein Team aus Grossbritannien, Deutschland, Norwegen und der Ukraine hat achtzehn rund 18'000 Jahre alte Frauenfiguren aus Mammutelfenbein vom Fundplatz Mizyn in der Ukraine mikroskopisch und in 3D untersucht. Die Gravuren greifen die natürlichen Wachstumslinien des Stosszahns gezielt auf. Die im Fachblatt Heritage Science erschienene Arbeit deutet auf eine eigenständige osteuropäische Kunsttradition hin.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/cavemen-used-mammoth-tusk-patterns-to-create-unique-art-reveals-new-research/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Gesellschaft",
+      "titel": "Weniger junge Briten ohne Arbeit und Ausbildung",
+      "zusammenfassung": "In Grossbritannien sind erstmals seit längerem weniger als eine Million junge Menschen ohne Arbeit, Schule oder Ausbildung: 981'000 zwischen April und Juni 2026, rund 30'000 weniger als im Vorquartal. Die Quote sank von 13,5 auf 13 Prozent. Regionale Programme zeigen Wirkung, etwa der East Midlands Youth Guarantee, aus dem 74 Prozent der Teilnehmenden in Job, Schule oder Lehre wechselten.",
+      "quelle": "Positive News",
+      "url": "https://www.positive.news/society/number-of-young-people-out-of-work-and-education-falls-below-one-million/",
+      "lesezeit": 5
+    }
+  ]
+}
