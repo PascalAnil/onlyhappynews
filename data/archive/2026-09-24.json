@@ -1,0 +1,78 @@
+{
+  "datum": "2026-09-24",
+  "ausgabe": 7,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Gesundheit",
+      "titel": "REM-Schlaf senkt das Risiko für 83 Krankheiten",
+      "zusammenfassung": "Ein Team der Capital Medical University in Peking wertete Schlafdaten von rund 95'500 Britinnen und Briten aus, die eine Woche lang ein Messgerät am Handgelenk trugen. Wer mehr REM-Schlaf hatte, erkrankte im Schnitt seltener an 83 Krankheiten, darunter Demenz, Parkinson und Herzschwäche; sechs bis acht Stunden Schlaf pro Nacht schnitten am besten ab. Die Studie in «PLOS Medicine» zeigt Zusammenhänge, beweist aber keine Ursache.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Tiere",
+      "titel": "Nach 100 Jahren schwimmt wieder ein Otter im Bronx River",
+      "zusammenfassung": "Eine Fotofalle hat am 23. Juni 2026 einen Fischotter am Bronx River in New York aufgenommen – der erste dokumentierte Nachweis seit rund hundert Jahren. Entdeckt hat das Bild der Wildbiologe R.J. Hawkins, der mit der Wildlife Conservation Society zusammenarbeitet. Otter gelten als Anzeiger für sauberes Wasser, weil sie in stark verschmutzten Flüssen nicht überleben; das Publikum durfte dem Tier online einen Namen geben.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/an-otter-just-returned-to-new-york-citys-bronx-river-for-the-first-time-in-a-century-180989556/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Umwelt",
+      "titel": "Brasilien holt sich 1,8 Millionen Hektar Savanne zurück",
+      "zusammenfassung": "Die Initiative Araticum bündelt über 180 Organisationen, indigene Gemeinschaften, Bauernbetriebe und Behörden, um bis 2030 rund 1,8 Millionen Hektar der brasilianischen Cerrado-Savanne in neun Bundesstaaten wiederherzustellen. Über 20'000 Hektar sind bereits in Renaturierung, gesammelt wurde Saatgut von mehr als 150 einheimischen Pflanzenarten. Die UNO zeichnete das Programm 2026 als «World Restoration Flagship» aus.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/flagship-restoration-project-in-brazils-cerrado-savannah-working-to-restore-4-4-million-acres/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Gesellschaft",
+      "titel": "Edinburgh: erstmals mehr Velos als Autos im Pendlerverkehr",
+      "zusammenfassung": "Auf der Leith Walk in Edinburgh waren im Mai zwischen 8 und 9 Uhr erstmals mehr Velos als Autos unterwegs. Eine landesweite 48-Stunden-Zählung der Organisation Cycling Scotland ergab 67'000 Velofahrten, ein Viertel mehr als im Vorjahr. Als Gründe nennt sie abgetrennte Velospuren und das E-Bike-Verleihsystem, das seit dem Start 1,46 Millionen Fahrten verzeichnet.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/bikes-outnumbered-cars-on-scottish-rush-hour-route-for-the-first-time-ever/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Technik",
+      "titel": "Chemisches Bad macht alte E-Auto-Batterien wieder fit",
+      "zusammenfassung": "Forschende der Cornell University haben ein Verfahren entwickelt, das gealterte Batterieelektroden in einem elektrochemischen Bad von Ablagerungen befreit, statt die Zellen zu zerlegen. Im Test erreichten behandelte Elektroden bis zu 95 Prozent ihrer ursprünglichen Ladekapazität, und das zu rund 15 statt 26 Dollar pro Kilogramm. Das Verfahren hilft allerdings nur dann, wenn der Kapazitätsverlust von dieser Deckschicht stammt.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/scientists-pioneer-chemical-bath-method-to-restore-aging-ev-batteries-without-breaking-them-down/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Geschichte",
+      "titel": "Ältester Friedensvertrag der Welt: neues Fragment gefunden",
+      "zusammenfassung": "In Hattuscha, der einstigen Hethiter-Hauptstadt in der türkischen Provinz Çorum, haben Archäologen ein Tontafel-Fragment mit akkadischer Keilschrift geborgen. Es gehört zu einer Abschrift des Friedensvertrags von Kadesch zwischen Ägypten und den Hethitern aus der Zeit um 1269 v. Chr. Der erhaltene Text umfasst die Artikel 12 bis 20, die den Umgang mit Flüchtlingen zwischen beiden Reichen regeln.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/researchers-in-turkey-have-unearthed-an-ancient-fragment-inscribed-with-the-worlds-oldest-peace-treaty-180989554/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Kultur",
+      "titel": "Aztekischer Codex erstmals seit 1840 wieder in Mexiko",
+      "zusammenfassung": "Der Codex Azcatitlan, der seit rund 1898 in der französischen Nationalbibliothek liegt, ist für drei Monate im Nationalmuseum für Anthropologie in Mexiko-Stadt zu sehen. Die 50 Blätter aus dem späten 16. und frühen 17. Jahrhundert zeigen die Wanderung der Mexica, die Herrscher von Tenochtitlan und die spanische Eroberung. Möglich wurde die Leihgabe, weil Mexiko im Gegenzug den Codex Boturini nach Frankreich ausleiht.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/a-rare-aztec-codex-detailing-the-rise-and-fall-of-tenochtitlan-returns-to-mexico-for-the-first-time-in-nearly-two-centuries-180989536/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Umwelt",
+      "titel": "Südkorea verwertet 97 Prozent seiner Speiseabfälle",
+      "zusammenfassung": "1996 wurden in Südkorea erst 2,6 Prozent der Speisereste verwertet, 2023 waren es knapp 97 Prozent. Möglich machten das verursachergerechte Gebühren, die Trennpflicht seit 1997, ein Deponieverbot ab 2005 und Container mit Chipkarte, die das Gewicht erfassen; 2025 standen über 151'000 solcher Behälter für rund 8,6 Millionen Haushalte bereit. Die Abfälle wandern in Biogasanlagen – das Zentrum in Daejeon versorgt damit täglich etwa 6000 Haushalte.",
+      "quelle": "The Optimist Daily",
+      "url": "https://www.optimistdaily.com/2026/09/from-2-6-to-97-how-south-korea-eliminated-food-waste-and-what-nyc-can-learn/",
+      "lesezeit": 4
+    }
+  ]
+}
