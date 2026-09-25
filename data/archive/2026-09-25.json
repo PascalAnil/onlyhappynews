@@ -1,0 +1,78 @@
+{
+  "datum": "2026-09-25",
+  "ausgabe": 8,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Technik",
+      "titel": "Portugiesischer Kork isoliert sogar Raumschiffe",
+      "zusammenfassung": "Der portugiesische Familienbetrieb Corticeira Amorim verarbeitet Korkrinde seit 150 Jahren und stellt heute rund 30 verschiedene Produkte daraus her – von Schiffsdecks über Kunstrasen-Granulat bis zu Hitzeschilden für Raumfahrzeuge. Nach dem erfolgreichen Einsatz am Wiedereintrittsgleiter IXV der ESA arbeiten auch NASA, Boeing und SpaceX mit dem Material. Eine Korkeiche lässt sich ab einem Alter von 25 Jahren bis zu neun Mal schälen und liefert während rund 200 Jahren Rinde, ohne dass der Baum gefällt wird.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/portuguese-company-turns-cork-wood-into-limitless-material-even-to-insulate-spacecraft/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Geschichte",
+      "titel": "943 römische Silbermünzen auf einem Feld bei Köln",
+      "zusammenfassung": "Der Sondengänger Oliver Riedl stiess mit Bewilligung auf einem Feld bei Wesseling südlich von Köln auf 943 römische Silberdenare. Die Münzen decken fast 300 Jahre ab, von 148 v. Chr. bis um 125 n. Chr., und wurden wohl unter Kaiser Hadrian in einem Tongefäss vergraben. Es ist der grösste Münzfund aus Hadrians Regierungszeit, der in Deutschland je gemacht wurde; die Stücke sind jetzt im LVR-LandesMuseum Bonn zu sehen.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/a-metal-detectorist-exploring-a-field-in-germany-was-stunned-to-discover-a-massive-hoard-of-roman-coins-180989561/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Wissenschaft",
+      "titel": "Magnetbakterien verlängern Wurmleben um 43 Prozent",
+      "zusammenfassung": "Ein Team der Chinesischen Akademie der Wissenschaften in Hefei fütterte Fadenwürmer der Art C. elegans mit dem magnetischen Bakterium Magnetospirillum magneticum AMB-1. Die mittlere Lebensdauer der Würmer stieg um rund 43 Prozent, weil das Bakterium die Eisenansammlung und damit eine bestimmte Form des Zelltods bremst. Entscheidend war die Fähigkeit der Bakterien, Magnetpartikel zu bilden: Varianten ohne diese Fähigkeit zeigten keinen Effekt.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924020357.htm",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Tiere",
+      "titel": "Live-Kamera zeigt die Tiere an Australiens Wasserloch",
+      "zusammenfassung": "Die Parkbehörde des Northern Territory und die Charles Darwin University übertragen ein abgelegenes Wasserloch im Watarrka-Nationalpark rund um die Uhr live auf YouTube. Solarstrom, Satelliteninternet und getarnte Technik machen die Dauerbeobachtung möglich, rund zwei Kilometer vom nächsten Parkplatz entfernt. Am häufigsten kommen Dingos trinken, dazu Wallabys, Frösche und Keilschwanzadler; die Idee stammt von der Gewässerökologin Jennifer Davis.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/australian-biologists-livestream-a-remote-desert-waterhole-and-all-its-wild-visitors/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Gesundheit",
+      "titel": "Granatapfel und Beeren helfen dem Darm bei Reparaturen",
+      "zusammenfassung": "Forschende der University of Louisville zeigen, dass Darmbakterien aus Granatapfel, Walnüssen und Beeren den Stoff Urolithin A bilden. Dieser aktiviert in den Zellen der Darmschleimhaut einen Reparaturweg, der die Barriere stärkt und die Schleimbildung anregt, statt Entzündungen auszulösen. Die Arbeit erschien in «Nature Communications» und stützt sich auf Zellversuche, Organoide und menschliches Darmgewebe von Betroffenen chronisch-entzündlicher Darmerkrankungen.",
+      "quelle": "The Optimist Daily",
+      "url": "https://www.optimistdaily.com/2026/09/pomegranates-and-berries-produce-a-gut-metabolite-that-may-improve-ibd-outcomes/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Kultur",
+      "titel": "Tate Modern zeigt 2027 über 60 Werke von Monet",
+      "zusammenfassung": "Die Tate Modern in London zeigt vom 25. Februar bis 27. Juni 2027 die Ausstellung «Monet: Painting Time» mit über 60 Werken aus den 1870er- bis 1920er-Jahren. Im Zentrum steht Monets Faible dafür, dasselbe Motiv immer wieder zu malen – die Kathedrale von Rouen, Getreideschober, Seerosen –, um Licht und Zeit festzuhalten. Neu restauriert und ohne alten Firnis zu sehen ist «The Seine at Port-Villez» von 1894.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/why-did-claude-monet-paint-the-same-scenes-over-and-over-again-the-impressionist-artist-was-obsessed-with-capturing-the-fleeting-nature-of-time-180989563/",
+      "lesezeit": 6
+    },
+    {
+      "top": false,
+      "kategorie": "Gesellschaft",
+      "titel": "Weltrekord: 22'000 Bälle an einem Tag recycelt",
+      "zusammenfassung": "Jugendliche der kalifornischen Initiative «Another Bounce» der Organisation Habits of Waste sammelten an einem einzigen Tag rund 22'000 Tennis- und Pickleball-Bälle ein und stellten damit einen Guinness-Weltrekord auf. Zusammen wogen die Bälle etwa 1200 Kilogramm, die so nicht auf der Deponie landen. In einer Spezialanlage entsteht daraus Kunststoffgranulat für Pflanztöpfe, Teppiche und Verpackungen.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/teens-set-world-record-for-most-sports-balls-recycled-in-one-day-diverting-2675-pounds-from-landfills/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Umwelt",
+      "titel": "33 Millionen Dollar gegen Wasserverluste am Colorado",
+      "zusammenfassung": "Ein Zusammenschluss von Unternehmen hat die Colorado River Basin Collaborative gestartet und bisher über 33 Millionen Dollar für einen sparsameren Umgang mit dem Flusswasser zugesagt; Amazon steuert 20 Millionen bei, das Ziel sind 100 Millionen. Ein erstes Projekt gibt 2,2 Millionen Dollar über drei Jahre an den Wasserverband von Orange County, der damit Lecks bei der Versorgung von 3,2 Millionen Menschen sucht und flickt. Weitere Mittel fliessen in effizientere Bewässerung, abgedichtete Kanäle und die Anreicherung von Grundwasser.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/millions-channeled-to-irrigation-improvements-leak-repairs-along-colorado-river-by-corporate-coalition/",
+      "lesezeit": 3
+    }
+  ]
+}
