@@ -1,0 +1,78 @@
+{
+  "datum": "2026-09-26",
+  "ausgabe": 9,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Gesellschaft",
+      "titel": "Kosovo ist nach 27 Jahren frei von Landminen",
+      "zusammenfassung": "Die Minenräumorganisation HALO Trust hat ihre humanitäre Arbeit im Kosovo nach 27 Jahren abgeschlossen. Nach dem Krieg von 1998/99 kehrten über 800'000 Vertriebene zurück; allein im ersten Monat wurden 150 Menschen durch Minen getötet oder verletzt. Heute sind die geräumten Flächen wieder für Landwirtschaft und Bauprojekte nutzbar, und die Lebenserwartung liegt bei 78 Jahren.",
+      "quelle": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
+      "lesezeit": 5
+    },
+    {
+      "top": false,
+      "kategorie": "Gesundheit",
+      "titel": "Urintest erkennt Gebärmutterkrebs ohne schmerzhaften Eingriff",
+      "zusammenfassung": "Ein Team der University of Manchester hat bei 1864 Frauen mit Blutungen nach der Menopause einen Test aus Urin- und Vaginalproben geprüft. Er erkannte über 80 Prozent aller Gebärmutterkrebsfälle und 95,8 Prozent der aggressiven Tumore; bei einem negativen Resultat lag die Zuverlässigkeit bei 98,8 Prozent. Die Studie erschien am 22. September in einer Fachzeitschrift der Lancet-Gruppe.",
+      "quelle": "University of Manchester",
+      "url": "https://www.manchester.ac.uk/about/news/simple-test-could-take-the-pain-out-of-womb-cancer-check",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Wissenschaft",
+      "titel": "Fledermäuse stammen ursprünglich aus Europa",
+      "zusammenfassung": "Mehr als 130 Forschende haben die Genome von 103 Fledermausarten aus allen 21 heute lebenden Familien sowie 44 Fossilien ausgewertet. Der neu berechnete Stammbaum zeigt, dass Fledermäuse vor rund 65 Millionen Jahren in Europa entstanden und sich von dort nach Afrika, Asien, Amerika und Australien ausbreiteten. Die Studie erschien am 23. September in der Fachzeitschrift Nature.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/where-did-bats-originate-huge-genetic-study-may-have-settled-the-longstanding-debate-and-rewritten-the-creatures-evolutionary-tree-180989568/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Technik",
+      "titel": "Eine Batterie aus Papier, die man schlucken kann",
+      "zusammenfassung": "Ein MIT-Team um Giovanni Traverso hat eine verdauliche Batterie entwickelt: Elektroden aus Magnesium und Molybdän, ein Träger aus Zellulosefasern und eine Wachshülle, die die Laufzeit steuert. Im Magen liefert sie rund drei Tage lang Strom und zerfällt danach innerhalb von Monaten. In Versuchen mit Schweinen versorgte sie unter anderem einen Funksender mit Energie.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/scientists-invent-a-digestible-paper-based-battery-that-can-power-swallowed-or-implanted-medical-devices-180989549/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Geschichte",
+      "titel": "Unter Pariser Spital: Mauer des gallischen Lutetia entdeckt",
+      "zusammenfassung": "Bei Grabungen unter dem Hôtel-Dieu auf der Île de la Cité haben französische Archäologen eine rund 20 Meter lange Wehrmauer aus Stein und Holz freigelegt. Die Radiokarbondatierung weist auf die Zeit zwischen 200 und 10 v. Chr. Das französische Kulturministerium meldete den Fund am 23. September; er stützt die Annahme, dass die gallische Siedlung Lutetia tatsächlich an dieser Stelle lag.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/two-thousand-years-ago-julius-caesar-conquered-the-settlement-that-eventually-became-paris-archaeologists-may-have-just-found-it-180989569/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Kultur",
+      "titel": "15 geraubte Antiken kehren nach Griechenland zurück",
+      "zusammenfassung": "Die Staatsanwaltschaft von Manhattan hat 15 antike Objekte im Wert von rund drei Millionen Dollar an Griechenland übergeben. Die Stücke decken fast 5000 Jahre ab, von einer Marmorfigur aus der Zeit um 2700 v. Chr. bis zu einer römischen Büste. Seit 2011 gingen auf diesem Weg 175 griechische Objekte im Wert von rund 51,5 Millionen Dollar zurück.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/see-a-stunning-collection-of-stolen-greek-artifacts-spanning-5000-years-that-were-just-returned-to-greece-180989566/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Gesellschaft",
+      "titel": "Nairobi macht aus alten Bibliotheken lebendige Treffpunkte",
+      "zusammenfassung": "Die Organisation Book Bunk hat in Nairobi drei öffentliche Bibliotheken saniert, 138'000 Bücher katalogisiert und 23'000 neue Titel angeschafft. Die Häuser zählen inzwischen über 192'000 Nutzerinnen und Nutzer, die Besuchszahlen stiegen um mehr als 240 Prozent. Nebenbei entstanden 93 Arbeitsstellen und mehr als 140'000 Gratismahlzeiten für das Quartier.",
+      "quelle": "Reasons to be Cheerful",
+      "url": "https://reasonstobecheerful.world/nairobi-libraries-civic-hubs/",
+      "lesezeit": 6
+    },
+    {
+      "top": false,
+      "kategorie": "Umwelt",
+      "titel": "Äthiopiens Wald wächst wieder",
+      "zusammenfassung": "Im Rahmen der Green Legacy Initiative hat Äthiopien seit 2019 nach Regierungsangaben 48 Milliarden Bäume gepflanzt, bis 2030 sollen es 50 Milliarden sein. Die Waldfläche stieg von 15,5 auf 23,6 Prozent des Staatsgebiets, die Entwaldungsrate sank zwischen 2013 und 2023 um rund 70 Prozent. Wie viele Setzlinge langfristig überleben, wird derzeit unabhängig untersucht.",
+      "quelle": "The Optimist Daily",
+      "url": "https://www.optimistdaily.com/2026/09/ethiopias-green-legacy-initiative-is-turning-citizens-into-foresters/",
+      "lesezeit": 5
+    }
+  ]
+}
