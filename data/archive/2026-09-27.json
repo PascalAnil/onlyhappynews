@@ -1,0 +1,71 @@
+{
+  "datum": "2026-09-27",
+  "ausgabe": 10,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Gesellschaft",
+      "titel": "Eine Milliarde Dollar für eine neue Ingenieurschule",
+      "zusammenfassung": "Nike-Mitbegründer Phil Knight und seine Frau Penny schenken der University of Oregon eine Milliarde Dollar für den Aufbau eines neuen Ingenieur-Colleges. Laut der «New York Times» ist es die grösste Einzelspende, die eine öffentliche Universität in den USA je erhalten hat. Das Geld bündelt die bisherigen Studiengänge zu einem vollständigen Ingenieurstudium und soll dem Fachkräftemangel im Bundesstaat entgegenwirken.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
+      "lesezeit": 3
+    },
+    {
+      "kategorie": "Wissenschaft",
+      "titel": "Quantencomputer zeigt, wie Teilchen entstehen",
+      "zusammenfassung": "Ein Team um Christopher Monroe an der Duke University hat mit 13 gefangenen Ionen nachgestellt, wie neue Teilchen entstehen, wenn die Verbindung zwischen zwei Materiebausteinen unter Spannung reisst. Die Messungen stimmten mit klassischen Berechnungen überein und erschienen in «Nature Physics». Die Forschenden sehen darin einen ersten Schritt, um mit Quantencomputern die Entstehung der Materie nach dem Urknall zu untersuchen.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Geschichte",
+      "titel": "Pferdegrab und Ramses-Stele in Festung im Nildelta",
+      "zusammenfassung": "In der rund 3000 Jahre alten Festung Tell al-Abqain in der ägyptischen Provinz Beheira haben Archäologen das vollständige Skelett eines jungen Hengstes samt Zaumzeug aus Alabaster und Kalkstein freigelegt. Dazu kamen drei Kalkstein-Stelen, eine davon mit Namen und Titeln von Ramses II., sowie Wohnhäuser, Brunnen, Getreidesilos und Schmuck. Pferdeknochen sind aus dem pharaonischen Ägypten nur sehr selten erhalten.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/a-3000-year-old-warhorse-burial-and-a-ramses-ii-tablet-among-other-relics-have-been-discovered-in-an-ancient-egyptian-fortress-180989564/",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Tiere",
+      "titel": "Neue Stabschrecken in Australien, bis 20 Zentimeter lang",
+      "zusammenfassung": "Ein Team um Braxton Jones von der Universität Sydney hat die Stabschrecken der Gattung Anchiale im Osten Australiens neu geordnet: Aus zwei Arten wurden fünf. Beschrieben wurde auch die Goliath-Stabschrecke Clemacantha goliath, deren Weibchen rund 20 Zentimeter lang werden. Australien kennt damit etwa 130 Stabschreckenarten, die sich mit ihrer Körperform als Äste und Blätter tarnen.",
+      "quelle": "ORF Science",
+      "url": "https://science.orf.at/stories/3237486/",
+      "lesezeit": 3
+    },
+    {
+      "kategorie": "Gesundheit",
+      "titel": "Mammografie: Überdiagnosen viel seltener als gedacht",
+      "zusammenfassung": "Ein Team um Sisse Helle Njor von der Universität Süddänemark hat acht grosse randomisierte Screening-Studien neu ausgewertet und dabei berücksichtigt, ob die Kontrollgruppen später selbst untersucht wurden und wie lange die Nachbeobachtung dauerte. Der Anteil unnötig entdeckter Brustkrebse liegt demnach unter fünf Prozent, bisher waren 30 bis 50 Prozent im Umlauf. Die Arbeit erschien im «Journal of the National Cancer Institute».",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924020351.htm",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Kultur",
+      "titel": "Ein Stern für Züri West, 80 Meter über Bern",
+      "zusammenfassung": "In der sanierten Siedlung Holenacker in Bern-Bethlehem erinnern neue Kunstwerke an die Rockband Züri West, deren Frontmann Kuno Lauener im Quartier wohnt. Der Künstler Christian Grogg schuf vier Betonsterne von zwei Metern Durchmesser: drei liegen am Boden, einer sitzt in 80 Metern Höhe auf einem Hochhausdach. Dazu kommt eine übergrosse, golden bemalte Teppichstange, inspiriert vom Lied «1968».",
+      "quelle": "SRF News",
+      "url": "https://www.srf.ch/kultur/kunst/denkmal-fuer-schweizer-rockband-zueri-west-bekommen-einen-stern-am-himmel-ueber-bern",
+      "lesezeit": 3
+    },
+    {
+      "kategorie": "Umwelt",
+      "titel": "Zwölf Geissen bringen Licht in den Zürcher Wald",
+      "zusammenfassung": "Am Eichberg in Saland im Zürcher Tösstal weiden zwölf Ziegen von Landwirt Sepp Schuler im Wald, zweimal pro Jahr je fünf Wochen. Sie fressen Brombeeren und junge Bäume zurück, damit mehr Licht auf den Boden fällt und seltene Pflanzen und Insekten zurückkehren. Pro Natura rechnet mit zehn bis fünfzehn Jahren bis zum lichten Wald; Waldweiden sind in der Schweiz seit rund 150 Jahren verboten.",
+      "quelle": "SRF News",
+      "url": "https://www.srf.ch/news/schweiz/artenvielfalt-wenn-geissen-den-wald-maehen",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Sport",
+      "titel": "Gäumann bleibt Schwingerkönigin, Linggi gewinnt das Fest",
+      "zusammenfassung": "Am Eidgenössischen Frauen- und Meitlischwinget in Schachen LU gewann die 20-jährige Schwyzerin Eveline Linggi das Fest mit 58,00 Punkten und bezwang im Schlussgang Jasmin Gäumann. Die 26-jährige Bernerin sicherte sich mit 57,50 Punkten dennoch erneut den Jahrestitel der Schwingerkönigin. Dritte wurde Isabel Egli mit 57,00 Punkten.",
+      "quelle": "SRF Sport",
+      "url": "https://www.srf.ch/sport/schwingen/eidgenoessisches-in-schachen-lu-linggi-gewinnt-das-fest-doch-gaeumann-ist-erneut-schwingerkoenigin",
+      "lesezeit": 2
+    }
+  ]
+}
