@@ -1,0 +1,71 @@
+{
+  "datum": "2026-09-28",
+  "ausgabe": 11,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Gesundheit",
+      "titel": "Gen-Schere halbiert das «schlechte» Cholesterin – ein Jahr lang",
+      "zusammenfassung": "In einer Phase-1-Studie der Cleveland Clinic erhielten 15 Patientinnen und Patienten eine einzige Infusion der CRISPR-Therapie CTX310, die das Gen ANGPTL3 in der Leber abschaltet. Bei der höchsten Dosis sank das LDL-Cholesterin um 52,5 Prozent, die Triglyzeride um 47,8 Prozent – und der Effekt hielt nach zwölf Monaten noch an. Schwere therapiebedingte Nebenwirkungen traten im ersten Jahr keine auf; die Ergebnisse erschienen im «New England Journal of Medicine».",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Wissenschaft",
+      "titel": "12'000 Fossilien zeigen: Sauerstoff machte komplexes Leben möglich",
+      "zusammenfassung": "In Bohrkernen aus dem australischen Northern Territory haben Forschende über 12'000 mikroskopische Fossilien einzelliger Eukaryoten entdeckt – mit 1,7 bis 1,4 Milliarden Jahren die ältesten bekannten weltweit. Diese Zellen traten ausschliesslich in sauerstoffreichen Meeresbereichen auf, in sauerstofffreien Zonen fanden sich nur einfachere Formen. Die Studie in «Nature» stützt damit die These, dass Sauerstoff die Entwicklung komplexen Lebens antrieb.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Umwelt",
+      "titel": "Sieben Düfte halten Bienen von gespritzten Feldern fern",
+      "zusammenfassung": "Ein Team um den Biologen Anandasankar Ray an der University of California in Riverside hat mit einem Machine-Learning-Modell über 50 Millionen chemische Verbindungen durchsucht und rund 130 mögliche Bienen-Abwehrstoffe gefunden. Sieben davon wurden im Feld getestet: Alle hielten Honigbienen zuverlässig von Waben fern, ohne den Tieren zu schaden. Ziel ist, Bienen von behandelten Kulturen wegzulenken, ohne den Pflanzenschutz zu schwächen; die Arbeit erschien in «eLife».",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/ca-researchers-identify-odors-that-repel-honeybees-from-pesticides/",
+      "lesezeit": 3
+    },
+    {
+      "kategorie": "Gesellschaft",
+      "titel": "New York holt 131 Millionen Dollar für Lieferfahrer zurück",
+      "zusammenfassung": "Das New Yorker Amt für Konsumenten- und Arbeitsschutz hat mit DoorDash einen Vergleich über 131,5 Millionen Dollar erzielt: Über 115 Millionen gehen an die Fahrerinnen und Fahrer, 16 Millionen sind Bussen. Betroffen sind mehr als 260'000 Personen, die zu spät, zu wenig oder gar nicht entlöhnt wurden – sie erhalten rund das Doppelte des geschuldeten Betrags. Es ist der grösste Vergleich zugunsten von Arbeitnehmenden in der Geschichte der Stadt.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/nyc-collects-131-million-from-doordash-for-delivery-workers-unfairly-paid/",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Kultur",
+      "titel": "Wie Archäologen 30'000 Museumsstücke in Syrien retteten",
+      "zusammenfassung": "Eine neue Studie in «Museum Management and Curatorship» rekonstruiert, wie Fachleute um Maamoun Abdulkarim, den damaligen Leiter der syrischen Antikenverwaltung, 2014 und 2015 rund 30'000 Objekte aus dem Museum von Deir ez-Zor in Sicherheit brachten. Während seiner Amtszeit wurden insgesamt etwa 300'000 Museumsstücke gerettet. Die Autoren zeigen, dass in solchen Lagen rasches Handeln unter Unsicherheit mehr bringt als das Warten auf perfekte Bedingungen.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/archaeologists-risked-their-lives-to-save-thousands-of-treasures-from-isis-terrorists/",
+      "lesezeit": 5
+    },
+    {
+      "kategorie": "Tiere",
+      "titel": "Erstmals nisten Meeresschildkröten an Kaliforniens Küste",
+      "zusammenfassung": "Rettungsschwimmer entdeckten am 16. September bei Seal Beach und drei Tage später beim Pier von Huntington Beach je eine Oliv-Bastardschildkröte beim Nestbau. Über Fotos liessen sich die Tiere anhand von Seepocken und Panzermerkmalen als zwei verschiedene Individuen bestimmen. Laut der US-Fischereibehörde NOAA sind es die ersten bekannten natürlichen Schildkrötennester an der US-Westküste – die Art brütet normalerweise zwischen Mexiko und Panama.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/in-a-first-sea-turtles-were-spotted-nesting-on-the-us-west-coast-scientists-say-the-super-el-nino-could-have-brought-them-there-180989574/",
+      "lesezeit": 3
+    },
+    {
+      "kategorie": "Gesundheit",
+      "titel": "«Martha's Rule» gilt künftig in allen Notaufnahmen Englands",
+      "zusammenfassung": "Der britische Gesundheitsdienst NHS weitet «Martha's Rule» von den Akutstationen auf alle Notaufnahmen in England aus. Die Regel erlaubt Patienten und Angehörigen, jederzeit eine unabhängige Zweitbeurteilung zu verlangen; benannt ist sie nach der 13-jährigen Martha Mills, die 2021 an einer Sepsis starb. In der Testphase von September 2024 bis Juni 2025 gingen 4906 Anrufe ein, 241 davon führten zu potenziell lebensrettenden Eingriffen.",
+      "quelle": "Positive News",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Kurioses",
+      "titel": "Der 26. September ist Österreichs Geburtstags-Rekordtag",
+      "zusammenfassung": "Laut Statistik Austria haben in Österreich 21'121 Menschen am 26. September Geburtstag – mehr als an jedem anderen Tag des Jahres, im Schnitt sind es 19'432. Am 25. Dezember sind es mit 16'623 rund ein Fünftel weniger, am 29. Februar nur 4937. Demografen der Universität Wien erklären die Häufung mit dem «Ferieneffekt»: Paare haben über Weihnachten Zeit füreinander, neun Monate später steigen die Geburtenzahlen.",
+      "quelle": "ORF Science",
+      "url": "https://science.orf.at/stories/3237485/",
+      "lesezeit": 2
+    }
+  ]
+}
