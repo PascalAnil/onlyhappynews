@@ -1,0 +1,71 @@
+{
+  "datum": "2026-09-29",
+  "ausgabe": 12,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Umwelt",
+      "titel": "Wildtierbrücke in Colorado: 91 Prozent weniger Kollisionen",
+      "zusammenfassung": "Die grösste Wildtierbrücke Nordamerikas überspannt seit Dezember 2024 die Interstate 25 zwischen Larkspur und Monument im US-Bundesstaat Colorado. Neun Monate nach der Eröffnung zeigen die Zahlen: Die Kollisionen zwischen Fahrzeugen und Tieren gingen auf diesem Abschnitt um 91 Prozent zurück – vorher wurde in der Wanderzeit fast täglich ein Hirsch angefahren. Neben Wapitis, Gabelbocken, Bären und Kojoten nutzen auch geschützte Kleintiere wie die Springmaus das Bauwerk und fünf zusätzliche Unterführungen.",
+      "quelle": "The Optimist Daily",
+      "url": "https://www.optimistdaily.com/2026/09/colorados-largest-wildlife-overpass-cut-i-25-collisions-by-91-percent/",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Tiere",
+      "titel": "Vietnam schützt den Wald des seltensten Affen der Welt",
+      "zusammenfassung": "In der nordvietnamesischen Provinz Ninh Binh ist ein neues Schutzgebiet von 3182 Hektar Karst-Kalksteinwald entstanden, dem Lebensraum des Delacour-Langurs. Von dieser Affenart leben nur noch rund 250 Tiere in 17 verstreuten Populationen. Ein Teil der Fläche steht unter strengem Schutz, ein weiterer wird ökologisch wiederhergestellt; geplant ist zudem sanfter Tourismus, der der örtlichen Bevölkerung zugutekommt.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/vietnam-swiftly-protects-forests-containing-the-last-of-the-worlds-most-endangered-monkey/",
+      "lesezeit": 3
+    },
+    {
+      "kategorie": "Geschichte",
+      "titel": "Ausgegraben: die Schule, in der Aristoteles Alexander lehrte",
+      "zusammenfassung": "In Mieza in Nordgriechenland hat ein Team um Angeliki Kottaridi vom griechischen Kulturministerium das rund 2400-jährige königliche Gymnasion freigelegt. Zum Vorschein kamen ein Didaskaleion mit steinernen Pulten, vier bronzene Schreibgriffel, Münzen sowie zwei Bankettsäle mit Mosaikböden im Stil des Palasts von Philipp II. Laut dem Geschichtsschreiber Plutarch liess Philipp II. diese Schule für seinen Sohn Alexander und junge makedonische Adlige bauen – unterrichtet wurden sie von Aristoteles.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/archaeologists-unearth-the-2400-year-old-school-where-aristotle-taught-alexander-to-be-great-180989581/",
+      "lesezeit": 5
+    },
+    {
+      "kategorie": "Wissenschaft",
+      "titel": "160 Millionen Jahre alte Eiweisse wirken gegen resistente Keime",
+      "zusammenfassung": "Ein Team der University of Oregon hat antimikrobielle Peptide rekonstruiert, wie sie im Protein Lactoferrin früher Säugetiere vor rund 160 Millionen Jahren vorkamen. Im Test gegen vier Krankheitserreger, darunter Staphylococcus aureus und Escherichia coli, wirkten einige dieser urzeitlichen Varianten stärker als ihre heutigen Gegenstücke. Schon eine einzelne veränderte Aminosäure machte einen deutlichen Unterschied; die Arbeit erschien in «PLOS Biology».",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925093155.htm",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Gesundheit",
+      "titel": "Kaffee senkt das Stressempfinden – auch ohne Koffein",
+      "zusammenfassung": "Forschende von APC Microbiome Ireland am University College Cork liessen 62 regelmässige Kaffeetrinkende und 31 Nichttrinkende zwei Wochen auf Kaffee verzichten und gaben ihnen danach koffeinhaltigen oder entkoffeinierten Kaffee. Beide Varianten senkten das empfundene Stressniveau sowie die Werte für Niedergeschlagenheit und Impulsivität. Entkoffeinierter Kaffee verbesserte Lernen und Gedächtnis, koffeinhaltiger die Aufmerksamkeit; wegen der kleinen Gruppe ist die Studie in «Nature Communications» aber erst ein Hinweis auf mögliche Wirkmechanismen.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Umwelt",
+      "titel": "Athens alter Flughafen wird zum grössten Küstenpark Europas",
+      "zusammenfassung": "Auf dem Gelände des stillgelegten Flughafens Ellinikon in Athen entsteht ein Park von 200 Hektar, der Anfang 2027 eröffnen soll; weitere Anlagen folgen bis 2030. Vorgesehen sind über 520 Pflanzenarten und eine sensorgesteuerte Bewässerung, die bis zu 90 Prozent Wasser sparen soll. Der Park soll das gesamte Regenwasser vor Ort aufnehmen und die Temperatur in der Umgebung um bis zu vier Grad senken.",
+      "quelle": "The Optimist Daily",
+      "url": "https://www.optimistdaily.com/2026/09/athens-former-airport-is-becoming-europes-largest-coastal-urban-park/",
+      "lesezeit": 3
+    },
+    {
+      "kategorie": "Gesellschaft",
+      "titel": "Bei Toulon wachsen jetzt Bananen und Drachenfrüchte",
+      "zusammenfassung": "Rund um Ollioules im französischen Departement Var bauen mehrere Bäuerinnen und Bauern tropische Früchte an, die bisher importiert wurden. Dominique Berdin kultiviert in seinem Gewächshaus etwa 20 Tropenfruchtarten, darunter Passionsfrucht und Ananas; der Agronom Johan Bultel arbeitet mit 26 verschiedenen Bananensorten. Isabelle Pertois stieg vom Biogemüse auf Bananen neben ihren Zitrusbäumen um – für Berdin passt das Klima Südfrankreichs heute zu diesen Kulturen.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/resilient-french-farmers-use-warming-climate-to-grow-the-countrys-own-tropical-fruit/",
+      "lesezeit": 4
+    },
+    {
+      "kategorie": "Kurioses",
+      "titel": "Riesenassel übersteht Jahre ohne Mahlzeit – dank fremdem Gen",
+      "zusammenfassung": "Die Tiefsee-Riesenassel Bathynomus jamesi wird knapp 30 bis 50 Zentimeter lang und kommt laut einer Studie im Fachblatt «Cell» mehr als fünf Jahre ohne Nahrung aus. Ihr Magen nimmt rund zwei Drittel des Körperinnenraums ein und dient als Vorratskammer. Forschende der Chinesischen Akademie der Wissenschaften fanden zudem ein Gen namens ND1, das die Tiere vor über 16 Millionen Jahren von Bakterien übernommen haben und das die Energiegewinnung bremst.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/this-massive-deep-sea-roly-poly-can-go-years-without-food-thanks-to-a-huge-stomach-and-a-stolen-gene-study-suggests-180989562/",
+      "lesezeit": 3
+    }
+  ]
+}
