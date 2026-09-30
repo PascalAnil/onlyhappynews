@@ -1,0 +1,78 @@
+{
+  "datum": "2026-09-30",
+  "ausgabe": 13,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Tiere",
+      "titel": "Geld für Tierfotos: Aus Jägern werden Beschützer",
+      "zusammenfassung": "In neun Dörfern in West-Kalimantan auf Borneo bezahlt die Organisation Borneo Futures Einheimische dafür, Wildtiere zu fotografieren statt zu jagen. Über 800 Teilnehmende haben bereits 378'000 bestätigte Beobachtungen gemeldet, darunter Borneo-Orang-Utans und Abbott-Gibbons. Das mit 300'000 Dollar finanzierte Programm läuft bis 2028, zwei weitere Dörfer wollen mitmachen.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/a-strategy-of-cash-for-photos-turns-animal-hunters-into-animal-protectors-in-indonesia/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Gesundheit",
+      "titel": "MRI zeigt Alzheimer-Spuren sieben Jahre früher",
+      "zusammenfassung": "Ein Team der Universität Oslo hat über 1000 demenzfreie Erwachsene bis zu 16 Jahre lang begleitet. Veränderungen der Hirnrindendicke im MRI zeigten sich rund sieben Jahre, bevor auf PET-Bildern Amyloid-Plaques sichtbar wurden (Nature Neuroscience, 19. August 2026). Für eine Diagnose reicht das laut anderen Fachleuten noch nicht, die Unterschiede gelten als zu fein.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/mri-scans-might-reveal-signs-of-alzheimers-disease-seven-years-before-a-telltale-marker-appears-in-the-brain-180989570/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Umwelt",
+      "titel": "Norwegen schützt 1850 Quadratkilometer Meer",
+      "zusammenfassung": "Die norwegische Regierung hat am 18. September den Andfjord im Norden des Landes zum Meeresschutzgebiet erklärt: rund 1850 Quadratkilometer mit Kaltwasserkorallen, Schwämmen, Tangwäldern, Walen und Seevögeln. Es ist das 24. von 36 geplanten Gebieten aus dem Meeresschutzplan von 2004; der geschützte Anteil der norwegischen Küstengewässer steigt damit von 4,8 auf 6 Prozent. Verwaltet wird das Gebiet von Gemeinden, Provinzbehörden und dem samischen Parlament gemeinsam.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/norways-newest-marine-protected-area-shelters-rich-marine-habitat-whales-and-seabirds/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Wissenschaft",
+      "titel": "Warum der Tag nicht genau 24 Stunden dauert",
+      "zusammenfassung": "Huifeng Zhang und Mathieu Dumberry von der University of Alberta erklären in «Nature», weshalb die Tageslänge über Jahrzehnte um einige Millisekunden schwankt. Der nicht ganz kugelförmige innere Erdkern verformt sich über rund zehn Jahre und übt dabei ein Drehmoment auf den etwa 3000 Kilometer dicken Erdmantel aus. Reibung an der Grenze zwischen Kern und Mantel wirkt dem entgegen.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Technik",
+      "titel": "Koffergrosser Satellit soll das junge Universum hören",
+      "zusammenfassung": "Ein internationales Team unter Leitung der University of Cambridge plant mit «CosmoCube» einen Kleinsatelliten von der Grösse eines Handgepäckkoffers für eine Mondumlaufbahn. Hinter dem Mond, abgeschirmt vom irdischen Funk, soll er bei 10 bis 50 Megahertz das Wasserstoffsignal aus der Zeit vor den ersten Sternen empfangen. Geplant sind 1000 Beobachtungsstunden in zwei Jahren bei Kosten von unter 50 Millionen Euro (Nature Astronomy).",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Technik",
+      "titel": "Erstes Robotaxi der Schweiz fährt im Furttal",
+      "zusammenfassung": "Im Zürcher Furttal ist seit September das erste Robotaxi der Schweiz im Einsatz. Drei Elektroautos des Projekts «Iamo» von Swiss Transit Lab, den Kantonen Zürich und Aargau sowie der SBB bedienen täglich von 13 bis 17 Uhr bis zu 100 Haltepunkte in Boppelsen, Dänikon, Hüttikon und Otelfingen. Noch sitzt ein Sicherheitsfahrer am Steuer; das Projekt ist auf bis zu fünf Jahre angelegt.",
+      "quelle": "SRF News",
+      "url": "https://www.srf.ch/news/schweiz/selbstfahrende-autos-ab-jetzt-ist-das-erste-robotaxi-der-schweiz-im-einsatz",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Kultur",
+      "titel": "Rom: Übermalte Fresken kommen zurück ans Licht",
+      "zusammenfassung": "In der Villa Silvestri Rivaldi beim Kolosseum legen Fachleute mit Lasertechnik Fresken frei, die im 17. Jahrhundert übermalt worden waren. Der zwischen 1534 und 1547 errichtete Bau mit rund 4600 Quadratmetern Innenfläche und 2500 Quadratmetern Garten war im 20. Jahrhundert verlassen worden. Die laufende Restaurierung kostet etwa 40 Millionen Dollar.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/in-one-of-romes-most-famed-and-neglected-villas-centuries-old-risque-frescoes-painted-over-by-nuns-have-reappeared-180989585/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Gesellschaft",
+      "titel": "Mit 15 gegründet: Bronx-Schüler zahlt Schulgeld in Ghana",
+      "zusammenfassung": "Max Owobu aus der New Yorker Bronx gründete mit 15 Jahren die gemeinnützige Yenko Foundation. Sie übernimmt für Kinder der Calvary Methodist Elementary School in Accra Schulgeld, Uniform, Transport, Mahlzeiten und Material – rund 1000 Dollar pro Kind und Jahr. Zehn Kinder werden derzeit durch die Primarschule begleitet, der heute 18-Jährige will auf 10 bis 15 aufstocken.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/18-year-old-from-the-bronx-starts-nonprofit-to-sponsor-school-children-in-ghana/",
+      "lesezeit": 3
+    }
+  ]
+}
