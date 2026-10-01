@@ -1,0 +1,78 @@
+{
+  "datum": "2026-10-01",
+  "ausgabe": 14,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Umwelt",
+      "titel": "Sycamore Gap: Der gefällte Baum treibt wieder aus",
+      "zusammenfassung": "Drei Jahre nachdem der berühmte Sycamore Gap am Hadrianswall in Nordengland mit einer Motorsäge gefällt wurde, bilden sich rund um den Stumpf dichte neue Triebe von 60 bis 90 Zentimetern Höhe. Der National Trust führt das auf gezielte Massnahmen zurück: Der Boden über den Wurzeln wurde gelockert und die Stelle von Besuchenden abgeschirmt. Aus geborgenem Saatgut sind zudem 49 junge «Trees of Hope» gezogen und in ganz Grossbritannien verteilt worden.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/englands-beloved-sycamore-gap-tree-is-showing-signs-of-life-three-years-after-vandals-chopped-it-down-180989591/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Tiere",
+      "titel": "Nach 150 Jahren leben wieder Kiwis bei Wellington",
+      "zusammenfassung": "Rund um die neuseeländische Hauptstadt Wellington leben erstmals seit etwa 150 Jahren wieder Kiwis in freier Wildbahn. Seit Ende 2022 hat das von iwi (Māori-Gemeinschaften), Anwohnenden und Landbesitzenden getragene Projekt «Capital Kiwi» über 250 Vögel auf rund 24'000 Hektaren ausgesetzt. Mehr als 5300 Fallen gegen Hermeline sorgen dafür, dass über 90 Prozent der Küken überleben – angestrebt waren 30 Prozent.",
+      "quelle": "Mongabay",
+      "url": "https://news.mongabay.com/podcast/2026/09/iwi-and-community-led-effort-return-kiwi-to-wellington-for-first-time-in-over-a-century/",
+      "lesezeit": 5
+    },
+    {
+      "top": false,
+      "kategorie": "Wissenschaft",
+      "titel": "Erdmikroben überleben in Enceladus-Bedingungen",
+      "zusammenfassung": "Ein Team um Frank Postberg und Nozair Khawaja von der Freien Universität Berlin hat das hitzeliebende Archaeon Methanothermococcus okinawensis in einer Lösung gehalten, die den Meeresboden des Saturnmonds Enceladus nachbildet. Die Mikroben überlebten nicht nur, sie bildeten mithilfe von Wasserstoff auch Methan. Eine zweite Studie zeigt, dass gefrorene Tröpfchen aus den Fontänen des Monds sich beim langsamen Erstarren entmischen – mögliche Lebensspuren wären damit leichter nachweisbar (Science Advances).",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/could-saturns-moon-enceladus-host-alien-life-earth-microbes-can-live-in-its-simulated-environment-boosting-its-potential-habitability-180989589/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Technik",
+      "titel": "KI-Agenten stossen auf unbekanntes Enzymsystem",
+      "zusammenfassung": "Etwa 950 parallel arbeitende KI-Agenten von Anthropic haben eine grosse DNA-Datenbank nach reversen Transkriptasen durchsucht. Nach 21 Stunden fand ein Agent eine ungewöhnliche Variante samt Partnergen und sich wiederholenden DNA-Abschnitten – ein bisher unbekanntes Enzymsystem in Bakteriophagen, strukturell verwandt mit der Genschere CRISPR. Laborarbeit von Menschen bestätigte den Fund; wozu das System dient, ist noch offen, der Preprint ist nicht begutachtet.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/anthropic-says-its-ai-discovered-a-new-enzyme-system-that-resembles-the-revolutionary-gene-editing-tool-crispr-180989578/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Umwelt",
+      "titel": "Aus dem Golfplatz an der Küste wird Vogelparadies",
+      "zusammenfassung": "In Sandilands an der Küste von Lincolnshire hat der National Trust einen 2020 gekauften Golfplatz in ein Feuchtgebiet umgewandelt – eine Fläche von etwa 45 Fussballfeldern. Pestizide werden nicht mehr eingesetzt, bewässert wird mit natürlich anfallendem Wasser statt mit Trinkwasser. Noch bevor das Projekt fertig war, brüteten dort Säbelschnäbler und Austernfischer erfolgreich, Flussregenpfeifer-Küken wurden das zweite Jahr in Folge beobachtet.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/coastal-golf-course-turned-into-vital-wetland-habitat-for-seabirds/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Kultur",
+      "titel": "Verschollene Manet-Zeichnung in Italien erkannt",
+      "zusammenfassung": "Eine rund 20 auf 18 Zentimeter grosse Rötelzeichnung aus einer Privatsammlung in Norditalien stammt von Édouard Manet. Der Kunsthistoriker Francesco Baccanelli entdeckte das Blatt, die Manet-Spezialistin Emily Beeny bestätigte die Zuschreibung. Es zeigt ein hockendes Mädchen und trägt ein Raster zur Übertragung auf Leinwand, auf einem bekannten Gemälde Manets kommt die Figur aber nicht vor; die Details erscheinen in der Oktoberausgabe des «Burlington Magazine».",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/an-enigmatic-chalk-drawing-rediscovered-in-a-private-italian-collection-has-been-identified-as-the-long-lost-work-of-edouard-manet-180989593/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Gesundheit",
+      "titel": "Kreatin baut Muskeln auch ohne Krafttraining auf",
+      "zusammenfassung": "An der Texas A&M University nahmen 64 gesunde Erwachsene zwischen 45 und 65 Jahren zwölf Wochen lang täglich 10 Gramm Kreatin-Monohydrat. Schon ohne Training legten sie rund ein Kilogramm Muskelmasse zu und wurden an Bein- und Bankdrücken stärker. Wer zusätzlich dreimal pro Woche trainierte und Kalorien reduzierte, verlor mehr Körperfett als die Vergleichsgruppe und gewann fast 1,4 Kilogramm Muskelmasse (Journal of the International Society of Sports Nutrition).",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260928100547.htm",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Gesellschaft",
+      "titel": "Zwölf Medaillen für Schweizer Berufstalente in Schanghai",
+      "zusammenfassung": "An den WorldSkills in Schanghai hat das Schweizer Team mit rund 40 Teilnehmenden zwölf Medaillen geholt, davon vier goldene, und liegt damit hinter China und Südkorea auf Rang drei. Gold gewannen Fina Niebergall (Hotelempfang), Sandro Amrhein (Nutzfahrzeugtechnik), Matthias Steiner (Sanitär- und Heizungstechnik) sowie Ian Hofer und Cyrill Koller (Industrie 4.0). 23 Mitglieder des Teams erhielten zudem eine «Medal of Excellence» für besonders hohe Punktzahlen; insgesamt traten rund 1400 Berufsleute an.",
+      "quelle": "SRF News",
+      "url": "https://www.srf.ch/news/international/world-skills-schweiz-glaenzt-an-berufs-wm-mit-zwoelf-medaillen",
+      "lesezeit": 3
+    }
+  ]
+}
