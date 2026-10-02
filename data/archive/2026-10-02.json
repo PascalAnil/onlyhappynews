@@ -1,0 +1,78 @@
+{
+  "datum": "2026-10-02",
+  "ausgabe": 15,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Gesundheit",
+      "titel": "RSV-Impfschutz: 74 Prozent weniger Spitalfälle",
+      "zusammenfassung": "Österreich bietet seit Ende 2024 allen Neugeborenen eine kostenlose passive Immunisierung gegen das RS-Virus an. In der Saison 2025/26 mussten laut Gesundheitsministerium 74 Prozent weniger Babys unter zwölf Monaten mit RSV ins Spital als zwei Jahre zuvor, bei den 13- bis 24-Monatigen waren es 21 Prozent weniger. Insgesamt entspricht das 1740 Spitalaufnahmen weniger; auf den Geburtsstationen liegt die Beteiligung je nach Region bei 75 bis 90 Prozent.",
+      "quelle": "ORF Science",
+      "url": "https://science.orf.at/stories/3237548/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Wissenschaft",
+      "titel": "Fossil aus der Gobi korrigiert den Säugetier-Stammbaum",
+      "zusammenfassung": "Ein fast vollständiges Skelett aus der östlichen Wüste Gobi in der Mongolei hat die neue Art Tamirkhan balcarceli erhalten – ein etwa 15 bis 18 Zentimeter langes Tier mit nachwachsenden Schneidezähnen. Die Analyse eines Teams des American Museum of Natural History und weiterer Hochschulen zeigt, dass die bisher als mögliche Vorfahren der Höheren Säugetiere gedeuteten Zhelestiden zu den spitzmausartigen Zalambdalestoiden gehören. Ähnliche Zähne können also unabhängig voneinander entstehen; die Studie erschien in «Nature».",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/new-gobi-desert-fossil-rewrites-a-chapter-of-mammal-evolution/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Geschichte",
+      "titel": "48 Pfeile aus dem Eis von Norwegens Bergen",
+      "zusammenfassung": "Das Projekt «Secrets of the Ice» hat in den Jotunheimen im Süden Norwegens in einer dreiwöchigen Sommerexpedition 48 vorgeschichtliche Pfeile geborgen. Der älteste Fund ist eine Schieferspitze mit Schaftresten, die auf 5000 bis 6000 Jahre geschätzt wird; dazu kam ein 3600 Jahre alter vollständiger Pfeil mit Holzschaft und einer Spitze aus Muschelschale. Seit 2006 haben die Archäologen der Region über 5000 Objekte an 73 Fundstellen dokumentiert.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/in-an-exciting-but-brutal-find-a-5000-year-old-arrow-emerges-from-norways-rapidly-melting-mountain-ice-180989599/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Gesundheit",
+      "titel": "MIND-Diät bremst die Hirnalterung um 2,5 Jahre",
+      "zusammenfassung": "Eine Langzeitstudie mit 1647 Teilnehmenden der Framingham-Offspring-Kohorte verfolgte über rund 20 Jahre MRI-Aufnahmen und Essgewohnheiten. Wer sich stärker an die MIND-Diät hielt – viel Beeren, Gemüse, Vollkorn, Geflügel, wenig Süsses und Frittiertes –, verlor langsamer graue Hirnsubstanz: Drei Punkte mehr auf der Diätskala entsprachen rund 20 Prozent weniger altersbedingtem Abbau oder etwa 2,5 Jahren gewonnener Hirnjugend. Die Beobachtungsstudie erschien im «Journal of Neurology, Neurosurgery & Psychiatry» und belegt keine Ursache-Wirkung.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Technik",
+      "titel": "Gestricktes Netz vervielfacht die Erdbeerernte",
+      "zusammenfassung": "Forschende der North Carolina State University haben mit «Plant Armor» ein dreidimensional gestricktes Textil entwickelt, das Insekten abhält und gleichzeitig Licht, Regen und Luft durchlässt. In Tunnelversuchen trugen damit abgedeckte Erdbeerpflanzen bis zu 3,56-mal so viel Früchte wie unbedeckte. Die Technik stammt ursprünglich aus der Entwicklung von Uniformen, die Mücken nicht durchstechen können; publiziert wurde sie in der Fachzeitschrift «Agriculture».",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Kultur",
+      "titel": "Calders letztes Werk kehrt nach zwölf Jahren zurück",
+      "zusammenfassung": "Alexander Calders letzte Skulptur «Mountains and Clouds» von 1976 wird wieder im neunstöckigen Atrium des Hart Senate Office Building in Washington aufgebaut. Das 15,5 Meter hohe Werk war 2014 aus Sicherheitsgründen abgebaut worden, nachdem ein Erdbeben 2011 die Konstruktion belastet hatte; zwei private Gebende finanzierten den Wiederaufbau mit 12 Millionen Dollar und leichteren Teilen aus Karbonfaserverbund. Bis November sollen die vier Wolken erstmals rotieren – so, wie Calder es geplant hatte.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/after-a-12-year-absence-alexander-calders-mammoth-last-sculpture-finally-returns-in-full-to-capitol-hill-180989601/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Gesellschaft",
+      "titel": "Samenbomben lassen Kaliforniens Brandflächen blühen",
+      "zusammenfassung": "Nach dem Palisades-Feuer in Los Angeles begannen Dana Goodyear und ihr damals 14-jähriger Sohn Ramsey, Kugeln aus Lehm, Kompost und Saatgut zu formen und an Betroffene zu verteilen. Inzwischen sind rund 10'000 solcher Samenbomben in Altadena, Pacific Palisades und Malibu im Umlauf; Schulen, Gärtnereien und lokale Betriebe machen mit. Die Mischung aus Kalifornischem Mohn, einheimischen Sonnenblumen, Buchweizen und Nachtkerze soll rasch Farbe bringen, den Boden halten und Schadstoffe aufnehmen.",
+      "quelle": "Reasons to be Cheerful",
+      "url": "https://reasonstobecheerful.world/california-fires-seed-bomb-project/",
+      "lesezeit": 6
+    },
+    {
+      "top": false,
+      "kategorie": "Kurioses",
+      "titel": "Comedy Wildlife Awards: 10'000 Bilder, 112 Länder",
+      "zusammenfassung": "Die Comedy Wildlife Awards haben ihre Shortlist 2026 veröffentlicht – mit über 10'000 Einsendungen aus 112 Ländern ein Rekord. In der Endauswahl stehen 40 Einzelbilder, drei Beiträge von unter 16-Jährigen, vier Portfolios und neun Videos von Tieren in unfreiwillig komischen Momenten. Die Gewinner werden am 8. Dezember bekannt gegeben, die Bilder sind anschliessend in London zu sehen; unterstützt wird dieses Jahr die Born Free Foundation.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/see-the-hilarious-animal-shenanigans-captured-in-photos-and-videos-shortlisted-for-the-2026-nikon-comedy-wildlife-awards-180989600/",
+      "lesezeit": 3
+    }
+  ]
+}
