@@ -1,0 +1,78 @@
+{
+  "datum": "2026-10-05",
+  "ausgabe": 16,
+  "artikel": [
+    {
+      "top": true,
+      "kategorie": "Wissenschaft",
+      "titel": "Juice nutzt die Erde als Schleuder zum Jupiter",
+      "zusammenfassung": "Die ESA-Sonde Juice flog am 28. September um 13.45 Uhr MESZ in 8640 Kilometern Höhe über dem Indischen Ozean an der Erde vorbei und änderte dabei ihre Flugrichtung um 20 Grad. Das Schwerkraftmanöver beschleunigte die Sonde um 3,5 Kilometer pro Sekunde, und von sechs geplanten Kurskorrekturen war nur eine nötig. 2031 soll Juice beim Jupiter ankommen und dessen Eismonde Ganymed, Kallisto und Europa in 35 Vorbeiflügen untersuchen.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Umwelt",
+      "titel": "Durchforsteter Wald: dickere Bäume, gleich viel Kohlenstoff",
+      "zusammenfassung": "Ein Langzeitversuch im australischen Victoria, zwischen 1987 und 1989 angelegt, wurde nach 30 Jahren ausgewertet. In stark durchforsteten Flächen, in denen 50 bis 70 Prozent der Bäume entnommen wurden, sind die verbliebenen Bäume rund 20 Prozent dicker als in unberührten Vergleichsflächen; einzelne messen über 1,5 Meter im Durchmesser. Der gespeicherte Kohlenstoff erreichte oder übertraf innerhalb der 30 Jahre jenen der unbewirtschafteten Flächen, und Kamerafallen wiesen in allen Versuchsflächen Wildtiere nach.",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm",
+      "lesezeit": 5
+    },
+    {
+      "top": false,
+      "kategorie": "Tiere",
+      "titel": "Diese Lemuren singen mit der Technik von Opernstars",
+      "zusammenfassung": "Ein Team der Universitäten Turin und Warwick hat 83 Videoaufnahmen von 19 wild lebenden Indris in Madagaskar ausgewertet. Für hohe Töne öffnen die Lemuren den Mund weiter - dieselbe Formant-Technik, mit der Opernsängerinnen ihre Stimme verstärken, hier um sich im dichten Wald über weite Distanzen zu verständigen. Die Studie in «PLOS Computational Biology» deutet darauf hin, dass sich die Fähigkeit bei Mensch und Indri unabhängig voneinander entwickelt hat.",
+      "quelle": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/these-wild-lemurs-sing-just-like-opera-stars-widening-their-mouths-as-they-hit-the-high-notes-study-suggests-180989603/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Kultur",
+      "titel": "Simeonskloster in Syrien nach 14 Jahren wieder offen",
+      "zusammenfassung": "Die Klosteranlage des heiligen Simeon bei Aleppo, erbaut zwischen 476 und 490, ist seit dem 2. Oktober wieder für Besucherinnen und Besucher zugänglich. Syriens Antikenbehörde räumte dafür Minen, sicherte brüchige Bauteile, behob Schäden aus dem Krieg und vom Erdbeben 2023 und legte neue Pilgerwege an. Die Anlage gehört zum Unesco-Welterbe und war bis zur Fertigstellung der Hagia Sophia im Jahr 537 die grösste Kirche der Christenheit.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/ancient-christian-site-reopens-in-syria-after-14-years-a-war-and-an-earthquake/",
+      "lesezeit": 3
+    },
+    {
+      "top": false,
+      "kategorie": "Technik",
+      "titel": "Neues Material gewinnt Wasserstoff aus Wasser mit Licht",
+      "zusammenfassung": "Ein Team der Oregon State University um Kyriakos Stylianou hat das metallorganische Gerüststoff-Material BVR-19 entwickelt, das unter Lichteinfall Wasserstoff aus Wasser freisetzt. Eine Schwefel-Schwefel-Bindung bricht dabei kurzzeitig auf, was teure Metallkatalysatoren erspart; das Material bildet sich von selbst in wässriger Lösung bei Raumtemperatur. Grüner Wasserstoff kostet heute rund 5 Dollar pro Kilogramm gegenüber etwa 1.50 Dollar bei der herkömmlichen Herstellung aus Erdgas. Die Arbeit erschien im «Journal of the American Chemical Society».",
+      "quelle": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Gesundheit",
+      "titel": "Lissabon setzt sterile Mücken gegen Dengue ein",
+      "zusammenfassung": "Portugals Gesundheitsbehörden haben im Lissabonner Quartier Alvalade 30'000 sterilisierte Mückenmännchen freigelassen, landesweit sind es bisher 60'000. Die Männchen konkurrieren mit den wilden um die Paarung und senken so die Vermehrung der Asiatischen Tigermücke, die Dengue, Zika und Gelbfieber übertragen kann - ohne Pestizide und ohne Gentechnik. Zunächst wird gemessen, wie weit sich die Tiere in der Stadt verteilen und wie lange sie überleben; eine Vergleichsstudie ist für Mai geplant.",
+      "quelle": "The Optimist Daily",
+      "url": "https://www.optimistdaily.com/2026/10/fighting-dengue-with-sterile-insects-lisbons-experimental-approach/",
+      "lesezeit": 4
+    },
+    {
+      "top": false,
+      "kategorie": "Gesellschaft",
+      "titel": "Solarhäuser als Leuchttürme bei Stromausfall",
+      "zusammenfassung": "In New Orleans dienen 14 Kirchen- und Gemeindehäuser mit Solaranlagen und Batteriespeichern als Notstrom-Treffpunkte, sechs weitere stehen im übrigen Louisiana. Gegründet hat das Netz die Organisation Together New Orleans nach dem Hurrikan Ida von 2021; während des Hurrikans Francine versorgte allein die Gemeinde First Grace UMC über 100 Menschen. 66 weitere Standorte sind geplant, finanziert aus öffentlich-privaten Partnerschaften und Spenden.",
+      "quelle": "Reasons to be Cheerful",
+      "url": "https://reasonstobecheerful.world/the-spark-the-community-lighthouses/",
+      "lesezeit": 5
+    },
+    {
+      "top": false,
+      "kategorie": "Kurioses",
+      "titel": "Weisser Hummer, einer von 100 Millionen, zieht an die Uni",
+      "zusammenfassung": "Der weisse Hummer «Casper» ist vom Maine State Aquarium an das Marine Science Center der University of New England gewechselt. Solche Tiere treten nach Schätzungen nur einmal unter 100 Millionen Hummern auf. Das Team um Markus Frederich untersucht mit schonender DNA-Entnahme über 15'000 Gene, um zu verstehen, wie seltene Schalenfarben entstehen und vererbt werden.",
+      "quelle": "Good News Network",
+      "url": "https://www.goodnewsnetwork.org/100m-ghost-lobster-goes-to-college/",
+      "lesezeit": 3
+    }
+  ]
+}
